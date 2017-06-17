@@ -1,7 +1,7 @@
 
 ## Executive Summary
 
-In response to a request from an auditor, we reviewed corporate credit card transactions for the London borough of Barnet for the period 2014-2016. We performed several kinds of analysis: summary, trend analysis, classification review, clustering, and anomaly identification. Data quality was reasonble, so we were able to fulfill all of the analysis requests. The rest of this report will review the analysis in detail. The analysis requests and key findings are summarized below.
+In response to a simulated request from an auditor, we reviewed corporate credit card transactions for the London borough of Barnet for the period 2014-2016. We performed several kinds of analysis: summary, trend analysis, classification review, clustering, and anomaly identification. Data quality was reasonble, so we were able to fulfill all of the analysis requests. The rest of this report will review the analysis in detail. The analysis requests and key findings are summarized below.
 
 Analysis Requests
 1. Quarterly summary charts and tables for each service area, including transaction counts and averages.
